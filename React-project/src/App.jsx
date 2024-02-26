@@ -1,6 +1,8 @@
 import About from "./pages/about";
 import Home from "./pages/home";
-
+import {routes, route} from "react-router-dom";
+import styled from "styled-components";
+import {H1, H2} from "./style";
 import styled from "styled-components";
 
 const StyledH1 = <styled className="h1"></styled>
